@@ -6,6 +6,10 @@ Hi, I'm **Sadia Peerzada**, and this is my project — **AMU StudySphere** 🎓
 An AI-powered platform designed to simplify **academic and club activities** for AMU students.  
 Built with creativity, productivity, and inclusivity in mind.
 
+**Figma Design:**
+You can view the full design and prototype here: 
+https://www.figma.com/make/aitbpk0cDfbrvrEyGlUfu0/amu.studysphere?node-id=0-1&t=lqAFIOLSBSqtcCaO-1
+
 ---
 
 ## ✨ Features
