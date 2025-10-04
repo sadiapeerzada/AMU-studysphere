@@ -87,12 +87,8 @@ Students access a dedicated dashboard for **study planning, resources, and colla
 - **Announcements** – Upcoming events and notices from clubs  
 - **Clubs** – Register for clubs or request new ones  
 - **Mentorship** – Guidance from faculty and ex-alumni mentors  
-- **Profile & Achievements** – Badges and daily streaks to track engagement  
-
----
-
-## 📸 Screenshots / Previews
-Here you can display your screenshots or Figma exports:
+- **Profile & Achievements** – Badges and daily streaks to track engagement
+  
 ---
 
 ## 🎨 Figma Prototype
