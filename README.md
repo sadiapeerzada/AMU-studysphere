@@ -38,6 +38,4 @@ Built with creativity, productivity, and inclusivity in mind.
 
 - Integration with AMU APIs (for timetable, events, etc.)
 
-Offline mode and cross-platform support
-
-👩‍💻 About the Creator
+- Offline mode and cross-platform support
