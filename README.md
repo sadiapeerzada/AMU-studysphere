@@ -90,14 +90,6 @@ Students access a dedicated dashboard for **study planning, resources, and colla
 - **Profile & Achievements** – Badges and daily streaks to track engagement
   
 ---
-
-## 🎨 Figma Prototype
-View the full interactive prototype:  
-👉 [View on Figma](https://www.figma.com/make/aitbpk0cDfbrvrEyGlUfu0/amu.studysphere?node-id=0-1&t=lqAFIOLSBSqtcCaO-1
-)
-
----
-
 ## 🛠️ Tech Stack
 - **UI/UX Design:** Figma  
 - **Frontend:** HTML, CSS, JavaScript (or React if coded)  
