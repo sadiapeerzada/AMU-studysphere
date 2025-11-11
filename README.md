@@ -1,4 +1,5 @@
 # 🧠 AMU StudySphere
+AMU StudySphere — A smart academic assistant platform that centralizes resources, AI tools, and collaboration for AMU students.
 
 **AMU StudySphere** is a comprehensive AI-powered platform designed to streamline academic life for **AMU students and faculty**.  
 It combines study planning, AI-powered tools, multilingual support, club management, mentorship, and collaboration features to create a one-stop solution for managing learning and teaching activities.
