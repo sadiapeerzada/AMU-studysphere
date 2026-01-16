@@ -673,7 +673,5 @@ AMU StudySphere is released under the **MIT License**, ensuring openness, adapta
 **Sadia Peerzada**
 AI • Web Development • Productivity Systems
 
-Her vision for AMU StudySphere is rooted in the belief that technology should **honor tradition while enabling progress**. By blending AMU’s rich cultural heritage with cutting-edge AI systems, Sadia aims to create tools that are intellectually rigorous, culturally respectful, and globally competitive.
-
----
+My vision for AMU StudySphere is rooted in the belief that technology should **honor tradition while enabling progress**. By blending AMU’s rich cultural heritage with cutting-edge AI systems, Sadia aims to create tools that are intellectually rigorous, culturally respectful, and globally competitive.
 
