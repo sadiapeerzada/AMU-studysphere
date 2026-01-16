@@ -6,7 +6,7 @@ AMU StudySphere is a production-grade, AI-native academic assistant platform des
 
 ---
 
-## 1. Executive Summary (920 words)
+## 1. Executive Summary 
 
 ### 1.1 Vision and Mission
 The vision of **AMU StudySphere** is to uphold the intellectual tradition of Aligarh Muslim University by providing students with the most advanced technological tools available today. Our mission is to democratize high-fidelity academic assistance through Artificial Intelligence, ensuring that every student—regardless of their primary language or department—has a personalized tutor available 24/7.
@@ -41,7 +41,7 @@ To be AI-native is to build the system around the capabilities of the model, rat
 
 ---
 
-## 2. Problem Statement & Motivation (840 words)
+## 2. Problem Statement & Motivation 
 
 ### 2.1 Fragmented Academic Tooling
 The current student journey is disjointed. A student uses WhatsApp for peer notes, Email for official notices, physical notice boards for club events, and various third-party websites for previous year papers. This fragmentation leads to "Information Decay" and "Context Switching Fatigue." Every time a student switches between five apps to find one piece of information, they lose cognitive momentum. StudySphere consolidates these workflows into a single intelligent dashboard.
@@ -60,7 +60,7 @@ Professors often don't know if a class has understood a concept until the mid-se
 
 ---
 
-## 3. User Personas & Stakeholders (720 words)
+## 3. User Personas & Stakeholders 
 
 ### 3.1 Undergraduate Student (The Learner)
 - **Persona:** "Arshad," 2nd Year B.Tech, ZHCET.
@@ -94,7 +94,7 @@ Professors often don't know if a class has understood a concept until the mid-se
 
 ---
 
-## 4. Functional Requirements (1,050 words)
+## 4. Functional Requirements 
 
 ### 4.1 Student Portal Core Features
 | ID | Requirement | Description |
@@ -136,7 +136,7 @@ Professors often don't know if a class has understood a concept until the mid-se
 
 ---
 
-## 5. Non-Functional Requirements (620 words)
+## 5. Non-Functional Requirements 
 
 ### 5.1 Scalability
 The platform must handle **30,000+ registered users** and up to **5,000 concurrent sessions** during peak exam periods. This is achieved through a serverless, horizontally scalable architecture.
@@ -164,7 +164,7 @@ The system must adhere to **WCAG 2.1 Level AA** standards. This includes:
 
 ---
 
-## 6. Complete Feature Deep Dive (1,650 words)
+## 6. Complete Feature Deep Dive 
 
 ### 6.1 AI Notes Summarization Pipeline
 **Purpose:** To solve the "Wall of Text" problem.
@@ -202,7 +202,7 @@ The system must adhere to **WCAG 2.1 Level AA** standards. This includes:
 
 ---
 
-## 7. SYSTEM ARCHITECTURE (CORE SECTION - 2,250 words)
+## 7. SYSTEM ARCHITECTURE (CORE SECTION)
 
 ### 7.1 High-Level Architecture (Diagram 1)
 
@@ -267,7 +267,7 @@ Uses a **"Pub/Sub"** model:
 
 ---
 
-## 8. DETAILED DIAGRAMS SECTION (1,320 words)
+## 8. DETAILED DIAGRAMS SECTION 
 
 ### 8.1 Overall Platform Architecture (Diagram 1)
 Shows the end-to-end journey of a user request through the load balancer, application server, and AI inference engine.
@@ -347,7 +347,7 @@ Step-by-step logic for circuit breakers when the AI API is down or the database 
 
 ---
 
-## 9. AI SYSTEM DESIGN (940 words)
+## 9. AI SYSTEM DESIGN 
 
 ### 9.1 Prompt Layering and Semantic Control
 StudySphere does not send raw user strings to the model. We use a **"Prompt Sandwich"** approach:
@@ -369,7 +369,7 @@ The system includes a **"Pedagogical Guardrail"**. If a student asks the AI to "
 
 ---
 
-## 10. TECH STACK & JUSTIFICATION (710 words)
+## 10. TECH STACK & JUSTIFICATION 
 
 - **Frontend: React 19.** Chosen for its Concurrent Mode, which allows for extremely smooth rendering of AI streaming responses.
 - **Language: TypeScript.** Essential for a system of this complexity to ensure type safety across the academic data models.
@@ -379,7 +379,7 @@ The system includes a **"Pedagogical Guardrail"**. If a student asks the AI to "
 
 ---
 
-## 11. DATA MODELS & STORAGE (610 words)
+## 11. DATA MODELS & STORAGE 
 
 ### 11.1 Relational Schema (PostgreSQL)
 - **Users:** ID, Role, Department, Streak, BadgeArray.
@@ -394,10 +394,6 @@ We store **Embeddings** of all academic content. This allows the Doubt Solver to
 Traditional B-Tree indexes for user lookups and HNSW (Hierarchical Navigable Small World) indexes for high-speed vector search.
 
 ---
-
-[CONTINUE FROM SECTION 12.0: SECURITY & PRIVACY]
-
-*(Word count total estimate: ~9,850 words including the following sections)*
 
 ## 12. SECURITY & PRIVACY
 
