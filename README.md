@@ -1,6 +1,7 @@
 # 🧠 AMU StudySphere: The Intelligent Academic Ecosystem for Aligarh Muslim University
 
-![AMU StudySphere Banner](https://picsum.photos/seed/amusphere/1200/400)
+![AMU StudySphere Banner]!(./preview_1.png)
+
 
 > **"Propelling the legacy of Aligarh into the era of Artificial General Intelligence."**
 
