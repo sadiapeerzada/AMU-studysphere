@@ -1,8 +1,5 @@
 # 🧠 AMU StudySphere: The Intelligent Academic Ecosystem for Aligarh Muslim University
 
-![AMU StudySphere Banner]!(./preview_1.png)
-
-
 > **"Propelling the legacy of Aligarh into the era of Artificial General Intelligence."**
 
 AMU StudySphere is a production-grade, AI-native academic assistant platform designed explicitly for the students, faculty, alumni, and administrators of Aligarh Muslim University (AMU). This platform centralizes academic resources, intelligent automation, and community engagement into a single, cohesive digital experience.
