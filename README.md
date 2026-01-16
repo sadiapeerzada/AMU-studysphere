@@ -13,6 +13,11 @@ The vision of **AMU StudySphere** is to uphold the intellectual tradition of Ali
 
 AMU has always been at the forefront of social and educational reform in India. As we enter the third decade of the 21st century, the "Alig" spirit must be augmented by the power of Large Language Models (LLMs). StudySphere is not just a tool; it is a digital infrastructure designed to foster excellence, inclusivity, and collaboration. It serves as a bridge between the university's glorious past and an AI-accelerated future.
 
+## 🏗️ System Architecture
+
+![StudySphere System Architecture](./Diagram.png)
+
+
 ### 1.2 Why StudySphere Exists
 AMU is a micro-cosmos of diversity. With over 30,000 students and hundreds of courses across disciplines like Engineering (ZHCET), Medicine (JNMC), Law, Arts, and Social Sciences, the administrative and academic management is often overwhelmed. Physical infrastructure, while grand, faces challenges in digital resource dissemination.
 
