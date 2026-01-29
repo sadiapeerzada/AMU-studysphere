@@ -1,5 +1,28 @@
 # 🧠 AMU StudySphere: The Intelligent Academic Ecosystem for Aligarh Muslim University
 
+## Table of Contents
+
+1. [Executive Summary](#executive-summary)
+2. [Project Vision & Objectives](#project-vision--objectives)
+3. [System Architecture](#system-architecture)
+4. [Authentication & Authorization](#authentication--authorization)
+5. [Academic Data Management](#academic-data-management)
+6. [Role-Based Access Control](#role-based-access-control)
+7. [Data Isolation & Course-Aware Filtering](#data-isolation--course-aware-filtering)
+8. [Features & Modules](#features--modules)
+9. [Timetable System](#timetable-system)
+10. [Guest Mode Implementation](#guest-mode-implementation)
+11. [Admin Dashboard & Analytics](#admin-dashboard--analytics)
+12. [Announcements & Events](#announcements--events)
+13. [Campus Life & Societies](#campus-life--societies)
+14. [Trilingual Support](#trilingual-support)
+15. [Technical Stack](#technical-stack)
+16. [Installation & Setup](#installation--setup)
+17. [Development Guidelines](#development-guidelines)
+18. [Security & Privacy](#security--privacy)
+19. [Scalability & Performance](#scalability--performance)
+20. [Future Roadmap](#future-roadmap)
+
 ![AMU StudySphere Banner](./preview_1.png)
 
 AMU StudySphere is a production-grade, AI-native academic assistant platform designed explicitly for the students, faculty, alumni, and administrators of Aligarh Muslim University (AMU). This platform centralizes academic resources, intelligent automation, and community engagement into a single, cohesive digital experience.
@@ -667,44 +690,6 @@ AMU StudySphere is released under the **MIT License**, ensuring openness, adapta
 * Faculty-defined constraints
 
 ---
-# AMU StudySphere
-
-## Complete Technical Documentation
-
-**Version:** 2.0  
-**Last Updated:** January 29, 2026  
-**Platform:** Production-Ready University Management System
-
----
-
-## Table of Contents
-
-1. [Executive Summary](#executive-summary)
-2. [Project Vision & Objectives](#project-vision--objectives)
-3. [System Architecture](#system-architecture)
-4. [Authentication & Authorization](#authentication--authorization)
-5. [Academic Data Management](#academic-data-management)
-6. [Role-Based Access Control](#role-based-access-control)
-7. [Data Isolation & Course-Aware Filtering](#data-isolation--course-aware-filtering)
-8. [Features & Modules](#features--modules)
-9. [Timetable System](#timetable-system)
-10. [Guest Mode Implementation](#guest-mode-implementation)
-11. [Admin Dashboard & Analytics](#admin-dashboard--analytics)
-12. [Announcements & Events](#announcements--events)
-13. [Campus Life & Societies](#campus-life--societies)
-14. [Trilingual Support](#trilingual-support)
-15. [Technical Stack](#technical-stack)
-16. [Installation & Setup](#installation--setup)
-17. [Development Guidelines](#development-guidelines)
-18. [Security & Privacy](#security--privacy)
-19. [Scalability & Performance](#scalability--performance)
-20. [Future Roadmap](#future-roadmap)
-
----
-
-## Executive Summary
-
-AMU StudySphere is a comprehensive, production-grade digital platform designed specifically for Aligarh Muslim University (AMU). It consolidates the university's fragmented ecosystem into a centralized, database-driven system that manages the entire student lifecycle from admission to graduation.
 
 ### Key Highlights
 
@@ -2047,18 +2032,16 @@ AMU StudySphere represents a comprehensive digital transformation initiative for
 
 ### Key Achievements
 
-✅ **Unified Platform:** Single access point for all services  
-✅ **Scale:** Supports 35,000+ students and 1,200+ faculty  
-✅ **Realism:** AMU-accurate data, timings, and workflows  
-✅ **Accessibility:** Trilingual support and mobile-responsive  
-✅ **Flexibility:** Guest mode for exploration without signup  
-✅ **Security:** Proper role-based access control  
-✅ **Performance:** Fast, responsive, and optimized  
+ **Unified Platform:** Single access point for all services  
+ **Scale:** Supports 35,000+ students and 1,200+ faculty  
+ **Realism:** AMU-accurate data, timings, and workflows  
+ **Accessibility:** Trilingual support and mobile-responsive  
+ **Flexibility:** Guest mode for exploration without signup  
+ **Security:** Proper role-based access control  
+ **Performance:** Fast, responsive, and optimized  
 
 ### Contact & Support
 
-**Project Maintainer:** AMU IT Department  
-**Email:** support@amu.studysphere.in  
 **Website:** https://amu.studysphere.in  
 
 ### License
@@ -2066,12 +2049,6 @@ AMU StudySphere represents a comprehensive digital transformation initiative for
 © 2026 Aligarh Muslim University. All rights reserved.
 
 ---
-
-**Document Version:** 2.0  
-**Last Updated:** January 29, 2026  
-**Total Words:** ~20,000
-
-This documentation provides a complete technical overview of AMU StudySphere. For specific implementation details, refer to inline code comments and component documentation.
 
 ## 18. ABOUT THE CREATOR
 
