@@ -2039,11 +2039,7 @@ AMU StudySphere represents a comprehensive digital transformation initiative for
  **Flexibility:** Guest mode for exploration without signup  
  **Security:** Proper role-based access control  
  **Performance:** Fast, responsive, and optimized  
-
-### Contact & Support
-
-**Website:** https://amu.studysphere.in  
-
+ 
 ### License
 
 © 2026 Aligarh Muslim University. All rights reserved.
