@@ -1,4 +1,4 @@
-# 🧠 AMU StudySphere: The Intelligent Academic Ecosystem for Aligarh Muslim University
+# 🧠 AMU Studysphere: The Intelligent Academic Ecosystem for Aligarh Muslim University
 
 ## Table of Contents
 
